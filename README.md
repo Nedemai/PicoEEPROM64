@@ -10,4 +10,4 @@ Connect from the cartridge slot Pin 21 (S_Dat) to GPIO pin 5 on the Pico, and ca
 
 Hit save in program, LED on Pico will turn on and off indicating save has been stored into the Picos EEPROM. Do not turn off the console while this LED is on.
 
-*** You should wait a few seconds after saving a game to ensure data is written into the Flash Rom of the Pico. This code has not been thoroughly tested for all cases ***
+*** You should wait a few seconds after saving to ensure data is written into the Flash Rom of the Pico. This code has not been thoroughly tested for all cases ***
