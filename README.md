@@ -4,7 +4,8 @@ Use a Raspberry Pi Pico to store saves that require using a 4Kilobit EEPROM for 
 
 ## How it Works
 
-Connect from the cartridge slot Pin 21 (S_Dat) to GPIO pin 5 on the Pico, and cartridge Pin 19 (CLK) to GPIO pin 4 on the Pico. Also connect 3V3 to power and GND to ground. 
+Connect from the cartridge slot Pin 21 (S_Dat) to GPIO pin 5 on the Pico. Also connect 3V3 to power and GND to ground. 
+Removed the need for the clock pin.
 
 ## How to Use
 
